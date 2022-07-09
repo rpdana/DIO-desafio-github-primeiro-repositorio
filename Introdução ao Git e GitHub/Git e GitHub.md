@@ -1,12 +1,12 @@
 # Git
 
-###GUI
+### GUI
 Grafic User Interface: Interface gráfica do usuário é uum tipo de interface que permite a interação com dispositivos digitais por meio de elementos gráficos.
 
-###CLI
+### CLI
 Command-line Interface: Inteface de linha de comando que processa os comandos que serão enviados para um programa na forma de linhas de texto. EX Git Bash.
 
-###Comandos 
+### Comandos 
 
 **cd(Windows)/cd(Linux)** - change directory: muda para o diretório solicitado.
 
@@ -44,7 +44,7 @@ Command-line Interface: Inteface de linha de comando que processa os comandos qu
 
 
 
-##GitHub
+## GitHub
 
 - SHA1
 - Objetos fundamentais
