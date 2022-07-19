@@ -1,4 +1,4 @@
-package aulas;
+package exemplos;
 
 public class Aula1 {public class Main {
 
