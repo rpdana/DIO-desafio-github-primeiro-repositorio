@@ -15,6 +15,8 @@
 <*visibilidade*> <*modificador*> **tipo nome =**<*valor inicial*>;
 - **tipo**, **nome** e **=** são obrigatórios para declarar uma variável.
 
+"<..>" = opicionais na criação de um método
+
 **visibilidade** = "public", "protected" e "private"
 **modificador** = "static" e "final"
 **tipo** = tipo de dado
