@@ -59,6 +59,10 @@
 
 ![sobrecarga](https://media.discordapp.net/attachments/836712599180935248/999129147018317854/unknown.png)
 
+***Sobrecarga VS Sobrescrita***
+
+Embora sejam dois conceitos relacionados á métodos, estas são completamente diferentes. O sobrecarga tem relação ao mesmo método com parâmetros diferentes. Já a sobrescrita, tem relação com herança, qual é um assunto relacionado a orientação a objeto. Então não confunda. Ambos tem relação com método, mas tem formas diferentes de definição, uso, além de comportamentos diferentes.
+
 
 ### Retorno
 
